@@ -1,2 +1,4 @@
 # python_diwali_sales_analysis
-this is a data analyst project 
+Python project - Analyze Diwali sales data to improve customer experience and sales
+
+
